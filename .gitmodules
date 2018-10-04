@@ -1,0 +1,9 @@
+[submodule "cli"]
+	path = cli
+	url = git@github.com:kubocker/cli.git
+[submodule "tool"]
+	path = tool
+	url = git@github.com:kubocker/tool.git
+[submodule "api"]
+	path = api
+	url = git@github.com:kubocker/api.git
