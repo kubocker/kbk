@@ -23,7 +23,7 @@ $ kbk todo create --start "20181010" --end "20181011" --title "be a king of engi
 - diary
 ```
 $ kbk diary --list (or -l)
-$ kbk diary create --start "20181010" --end "20181011" --title "a fuckin day"
+$ kbk diary create --start "20181010" --end "20181011" --title "a happy day"
 ```
 
 ### tool
