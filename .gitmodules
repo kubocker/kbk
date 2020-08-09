@@ -4,9 +4,3 @@
 [submodule "tool"]
 	path = tool
 	url = git@github.com:kubocker/tool.git
-[submodule "api"]
-	path = api
-	url = git@github.com:kubocker/api.git
-[submodule "backup"]
-	path = backup
-	url = git@github.com:kubocker/kbk_backup.git
